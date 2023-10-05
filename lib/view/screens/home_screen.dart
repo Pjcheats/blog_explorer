@@ -74,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
             () {
               if (_blogController.blogList.isEmpty) {
                 if (!_blogController.isLoading) {
-                  Center(
+                  return Center(
                     child: Text(
                   "Check your Internet connection and try again",
                   style: TextStyle(
