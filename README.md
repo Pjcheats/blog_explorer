@@ -1,16 +1,15 @@
 # blog_explorer
 
-A new Flutter project.
+The assignment was to make a blog app from the given Api.
 
-## Getting Started
+I have made the app completely on my own here is tha sample video : 
 
-This project is a starting point for a Flutter application.
+https://github.com/Pjcheats/blog_explorer/assets/90235875/a9aea5e7-4f96-420d-91f4-f7503a7f5941
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+----------------------------------------------------------------------------------------------------------------------------------------
+##The app features : 
+ + Great UI / UX
+ + Adding to favourite
+ + Image caching
+ + Offline mode implemented with FLutter Hive
+ + uses GetX as State management
